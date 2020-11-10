@@ -1,4 +1,4 @@
-## Zhennan(Leo) Wu's Homepage
+## Zhennan(Leo)'s Homepage
 
 Hello, welcome to my homepage! I am a Ph.D. student of computer science at Indiana University, Bloomington. I am adviced by Roni Khardon. 
 
