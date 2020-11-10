@@ -5,4 +5,4 @@ Hello, welcome to my homepage! I am a Ph.D. student of computer science at [Indi
 My research interests lie in Reinforcement Learning, especially understanding the theoretical properties of various RL methods
 and designing better algorithms.
 
-Currently I am working on planning as inference.
+Currently I am working on understanding the roles of probabilistic inference in planning and RL.
