@@ -1,15 +1,4 @@
 ## Welcome to My personal Pages
 
-You can use the [editor on GitHub](https://github.com/Zhennan-Wu/zhennanwu.github.io/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## He
+Hello! I am a Ph.D. student of computer science at Indiana University Bloomington. I am adviced by Roni Khardon. 
+My research interests lie in Reinforcement Learning. Currently I am working on planning as inference.
